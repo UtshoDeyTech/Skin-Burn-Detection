@@ -56,9 +56,9 @@ This will launch the web app in your browser. Upload an image of a burn and the 
 Here are some demo images that you can use to test the skin burn detection web app:
 
 <div style="display:flex;">
-    <img src="https://raw.githubusercontent.com/UtshoDeyTech/Skin-Burn-Detection/master/1st.PNG" alt="First Degree Burn" width="250" height="250"/> 
-    <img src="https://raw.githubusercontent.com/UtshoDeyTech/Skin-Burn-Detection/master/2nd.PNG" alt="Second Degree Burn" width="250" height="250"/> 
-    <img src="https://raw.githubusercontent.com/UtshoDeyTech/Skin-Burn-Detection/master/3rd.PNG" alt="Third Degree Burn" width="250" height="250"/>
+    <img src="https://raw.githubusercontent.com/UtshoDeyTech/Skin-Burn-Detection/master/1st.PNG" alt="First Degree Burn" width="300" height="300"/> 
+    <img src="https://raw.githubusercontent.com/UtshoDeyTech/Skin-Burn-Detection/master/2nd.PNG" alt="Second Degree Burn" width="300" height="300"/> 
+    <img src="https://raw.githubusercontent.com/UtshoDeyTech/Skin-Burn-Detection/master/3rd.PNG" alt="Third Degree Burn" width="300" height="300"/>
 </div>
 
 ## Code Explanation
